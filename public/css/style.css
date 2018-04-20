@@ -1,0 +1,33 @@
+
+
+body {
+    padding-top: 54px;
+    background-color: #FFFFFF !important;
+  }
+  
+  @media (min-width: 992px) {
+    body {
+      padding-top: 56px;
+    }
+  }
+  
+  /* EDITS */
+  .navbar{
+    background-color: #4db84b !important;
+  }
+  .navbar a{
+    color: #ffffff !important;
+  }
+  
+  .navbar-dark
+  
+  .card-body h4{
+    color: #4db84b !important;
+  }
+  
+  .text-muted{
+    color: #4db84b !important;
+  }
+  .list-group-item{
+  color: #732299 !important;
+  }
